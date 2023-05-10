@@ -1,0 +1,9 @@
+## YAML Template.
+
+dbUrl: jdbc:mysql://localhost/twitter
+dbPassword: ****
+dbUser: ****
+twitterAccount: ****
+maxChain: 30
+maxLength: 140
+sentenceEnd: ['\. ','\.\\','。','\r','\n']
